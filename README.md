@@ -7,7 +7,7 @@ Python code related to using Atlassian JIRA REST APIs
 simpleJIRAQuerySampleCode.py
 
 2. another simple example using class<br>
-TestJIRAQueryRest.py : main to test the JIRA class below
+TestJIRAQueryRest.py : main to test the JIRA class below<br>
 JIRAQueryRest.py : actual class
 
 
